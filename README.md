@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuitarboyJason)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shinise2)](https://solved.ac/shinise2/)
+
+<a href="https://opgc.me/#/users/guitarboyjason" target="_blank"><img src="https://api.opgc.me/githubs/users/guitarboyjason/tag/?theme=basic" /></a>
