@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning ... <strong>Web(specially Back-end) in "Samsung Software Academy For Youth"</strong>
+🔭 I’m currently working ... <strong>Samsung SDI - Smart Factory Team</strong>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuitarboyJason)](https://github.com/anuraghazra/github-readme-stats)
 
